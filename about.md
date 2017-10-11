@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: School
 permalink: /about/
 ---
 
 Goes to Dr Challoners Grammer School
 
-### More Information
+### More Information I have a cat and a sister
 i have a cat and a sister
 
-### Contact me
+### Contact me at braedan.mooney@challoners.org
 
 braedan.mooney@challoners.org
