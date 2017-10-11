@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Goes to Dr Challoners Grammer School 
-### More Information
+### familly
 I have a cat and a sister
 
 ### Contact me 
