@@ -3,11 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: braedan mooney
+name: brae brae 
 
 # Short bio or description (displayed in the header)
-description: a challoners boy
-
+description: a boy
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn4.iconfinder.com/data/icons/superheroes/512/hulk-512.png
 
@@ -18,7 +17,7 @@ avatar: https://cdn4.iconfinder.com/data/icons/superheroes/512/hulk-512.png
 # Includes an icon in the footer for each username you enter
 footer-links: 
   dribbble:
-  email: Braedan.Mooney@challoners.org
+  email: 
   facebook:
   flickr:
   github: barryclark/jekyll-now
