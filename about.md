@@ -4,9 +4,9 @@ title: School
 permalink: /about/
 ---
 
-Goes to Dr Challoners Grammer School 
-### familly
-I have a cat and a sister
+ 
+### house
+I have a nice house
 
-### Contact me 
-braedan.mooney@challoners.org
+###  
+
