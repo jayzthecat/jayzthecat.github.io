@@ -22,7 +22,7 @@ published: true
     <td>Did I reach my target? </td>
     <td>No because i forgot to save my scratch code</td>
   </tr>
-</table>
+<table>
 <html>
 <head>
 <style>
