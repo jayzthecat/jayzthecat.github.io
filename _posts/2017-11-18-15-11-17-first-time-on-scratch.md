@@ -7,18 +7,20 @@ source-id: 1LxfnqyZ0MSiWWtb5pvbK1kpKunyfgi9iqFpnRImws08
 published: true
 ---
 <table>
+ 
+
+<table>
   <tr>
-    <td>Title</td>
-    <td>First time on scratch</td>
-    <td>Date</td>
-    <td>01/01/01</td>
+    <td>Starting point:</td>
+    <td>No scratch account </td>
   </tr>
-</table>
-<tr>
-    <td>Title</td>
-    <td>Alien boss coding</td>
-    <td>Date</td>
-    <td>29/11/17</td>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To make scratch move up ,down ,left and right also made scratch stop when it hit a box and homework was play retro games</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? </td>
+    <td>No because i forgot to save my scratch code</td>
   </tr>
 </table>
 <html>
@@ -30,7 +32,6 @@ table {
 
 table, td, th {
     border: 1px solid black;
-    width: 100%;
 }
 </style>
 </head>
@@ -47,25 +48,7 @@ table, td, th {
   </tr>
   <tr>
     <td></td>
-    <td> </td>
-  </tr>
-
-
-
-<table>
-
-<table>
-  <tr>
-    <td>Starting point:</td>
-    <td>No scratch account </td>
-  </tr>
-  <tr>
-    <td>Target for this lesson?</td>
-    <td>To make scratch move up ,down ,left and right also made scratch stop when it hit a box and homework was play retro games</td>
-  </tr>
-  <tr>
-    <td>Did I reach my target? </td>
-    <td>No because i forgot to save my scratch code</td>
+    <td>   </td>
   </tr>
 </table>
 
