@@ -14,7 +14,45 @@ published: true
     <td>01/01/01</td>
   </tr>
 </table>
+<tr>
+    <td>Title</td>
+    <td>Alien boss coding</td>
+    <td>Date</td>
+    <td>29/11/17</td>
+  </tr>
+</table>
+<html>
+<head>
+<style>
+table {
+    border-collapse: collapse;
+}
 
+table, td, th {
+    border: 1px solid black;
+    width: 100%;
+}
+</style>
+</head>
+<body>
+
+
+
+<table>
+  <tr>
+    <th></th>
+    <th>  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td> </td>
+  </tr>
+
+
+
+<table>
 
 <table>
   <tr>
