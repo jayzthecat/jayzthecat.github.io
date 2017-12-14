@@ -28,6 +28,7 @@ published: true
 <style>
 table {
     border-collapse: collapse;
+ width: 100%;
 }
 
 table, td, th {
