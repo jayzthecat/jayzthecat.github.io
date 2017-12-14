@@ -7,7 +7,7 @@ source-id: 1yV-SvDvSkWJee3U7jJQ4oQI_1EXMeLerDOj_XAGkyDo
 published: true
 ---
 <table>
-  width: 100%;
+ 
   <tr>
     <td>Title</td>
     <td>Alien boss coding</td>
@@ -24,6 +24,7 @@ table {
 
 table, td, th {
     border: 1px solid black;
+    width: 100%;
 }
 </style>
 </head>
