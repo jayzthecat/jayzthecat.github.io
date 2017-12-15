@@ -7,9 +7,25 @@ source-id: 16FtVG_R_xDvw_VzYf7FXIqtVZnNv3eZDKR6sM_24-MU
 published: true
 ---
 <table>
+  
+<table>
   <tr>
+    <td>Starting point:</td>
+    <td>Blog on github just being a title, space then the words</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>Make a table around the blog to make it look nicer</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? </td>
+    <td>Yes because I was able to make a table around all of my blogs</td>
+  </tr>
+</table>
+ <tr>
     <td>Title</td>
-    <td>Table around blog</td>
+    <td>
+Blogs and JS Bin</td>
     <td>Date</td>
     <td>01/01/01</td>
   </tr>
@@ -42,24 +58,6 @@ table, td, th {
   <tr>
     <td></td>
     <td>   </td>
-  </tr>
-</table>
-
-
-<table>
-
-<table>
-  <tr>
-    <td>Starting point:</td>
-    <td>Blog on github just being a title, space then the words</td>
-  </tr>
-  <tr>
-    <td>Target for this lesson?</td>
-    <td>Make a table around the blog to make it look nicer</td>
-  </tr>
-  <tr>
-    <td>Did I reach my target? </td>
-    <td>Yes because I was able to make a table around all of my blogs</td>
   </tr>
 </table>
 
