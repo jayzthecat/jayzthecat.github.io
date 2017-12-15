@@ -30,7 +30,46 @@ Blogs and JS Bin</td>
     <td>01/01/01</td>
   </tr>
 </table>
+ <tr>
+    <td>Title</td>
+    <td>
+Blogs and JS Bin</td>
+    <td>Date</td>
+    <td>01/01/01</td>
+  </tr>
 </table>
+</table>
+<html>
+<head>
+<style>
+table {
+    border-collapse: collapse;
+  width: 100%;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+
+
+<table>
+  <tr>
+    <th></th>
+    <th>  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>   </td>
+  </tr>
+</table>
+
+<table>
 <html>
 <head>
 <style>
