@@ -7,6 +7,21 @@ source-id: 16FtVG_R_xDvw_VzYf7FXIqtVZnNv3eZDKR6sM_24-MU
 published: true
 ---
 <table>
+</table>
+<html>
+<head>
+<style>
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    width: 100%;
+}
+</style>
+</head>
+<body>
   
 <table>
   <tr>
@@ -39,42 +54,9 @@ Blogs and JS Bin</td>
   </tr>
 
 <body>
-
-
-
-<table>
-  <tr>
-    <th></th>
-    <th>  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td> </td>
-  </tr>
+  
 </table>
-
-<table>
-<html>
-<head>
-<style>
-table {
-    border-collapse: collapse;
-  width: 100%;
-}
-
-table, td, th {
-    border: 1px solid black;
-}
-</style>
-</head>
-<body>
-
-
-
-<table>
-  <tr>
+ <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
   </tr>
